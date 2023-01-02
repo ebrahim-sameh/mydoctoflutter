@@ -37,7 +37,7 @@ android {
         applicationId "com.mydoctolib.app"
         minSdkVersion 21
         targetSdkVersion 33
-        versionCode 15
+        versionCode 17
         versionName "5.3.0"
         multiDexEnabled true
     }
